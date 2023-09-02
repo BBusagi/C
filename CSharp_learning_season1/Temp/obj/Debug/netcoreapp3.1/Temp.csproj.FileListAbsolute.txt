@@ -1,0 +1,14 @@
+E:\PL_IDE\C#\CSharp_learing_season1\Temp\bin\Debug\netcoreapp3.1\Temp.exe
+E:\PL_IDE\C#\CSharp_learing_season1\Temp\bin\Debug\netcoreapp3.1\Temp.deps.json
+E:\PL_IDE\C#\CSharp_learing_season1\Temp\bin\Debug\netcoreapp3.1\Temp.runtimeconfig.json
+E:\PL_IDE\C#\CSharp_learing_season1\Temp\bin\Debug\netcoreapp3.1\Temp.runtimeconfig.dev.json
+E:\PL_IDE\C#\CSharp_learing_season1\Temp\bin\Debug\netcoreapp3.1\Temp.dll
+E:\PL_IDE\C#\CSharp_learing_season1\Temp\bin\Debug\netcoreapp3.1\Temp.pdb
+E:\PL_IDE\C#\CSharp_learing_season1\Temp\obj\Debug\netcoreapp3.1\Temp.GeneratedMSBuildEditorConfig.editorconfig
+E:\PL_IDE\C#\CSharp_learing_season1\Temp\obj\Debug\netcoreapp3.1\Temp.AssemblyInfoInputs.cache
+E:\PL_IDE\C#\CSharp_learing_season1\Temp\obj\Debug\netcoreapp3.1\Temp.AssemblyInfo.cs
+E:\PL_IDE\C#\CSharp_learing_season1\Temp\obj\Debug\netcoreapp3.1\Temp.csproj.CoreCompileInputs.cache
+E:\PL_IDE\C#\CSharp_learing_season1\Temp\obj\Debug\netcoreapp3.1\Temp.dll
+E:\PL_IDE\C#\CSharp_learing_season1\Temp\obj\Debug\netcoreapp3.1\Temp.pdb
+E:\PL_IDE\C#\CSharp_learing_season1\Temp\obj\Debug\netcoreapp3.1\Temp.genruntimeconfig.cache
+E:\PL_IDE\C#\CSharp_learing_season1\Temp\obj\Debug\netcoreapp3.1\Temp.csproj.AssemblyReference.cache

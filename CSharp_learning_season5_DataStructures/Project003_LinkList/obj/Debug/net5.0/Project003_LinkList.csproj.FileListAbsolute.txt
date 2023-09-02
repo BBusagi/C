@@ -1,0 +1,16 @@
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project003_LinkList\bin\Debug\net5.0\Project003_LinkList.exe
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project003_LinkList\bin\Debug\net5.0\Project003_LinkList.deps.json
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project003_LinkList\bin\Debug\net5.0\Project003_LinkList.runtimeconfig.json
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project003_LinkList\bin\Debug\net5.0\Project003_LinkList.runtimeconfig.dev.json
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project003_LinkList\bin\Debug\net5.0\Project003_LinkList.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project003_LinkList\bin\Debug\net5.0\ref\Project003_LinkList.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project003_LinkList\bin\Debug\net5.0\Project003_LinkList.pdb
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project003_LinkList\obj\Debug\net5.0\Project003_LinkList.csproj.AssemblyReference.cache
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project003_LinkList\obj\Debug\net5.0\Project003_LinkList.GeneratedMSBuildEditorConfig.editorconfig
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project003_LinkList\obj\Debug\net5.0\Project003_LinkList.AssemblyInfoInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project003_LinkList\obj\Debug\net5.0\Project003_LinkList.AssemblyInfo.cs
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project003_LinkList\obj\Debug\net5.0\Project003_LinkList.csproj.CoreCompileInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project003_LinkList\obj\Debug\net5.0\Project003_LinkList.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project003_LinkList\obj\Debug\net5.0\ref\Project003_LinkList.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project003_LinkList\obj\Debug\net5.0\Project003_LinkList.pdb
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project003_LinkList\obj\Debug\net5.0\Project003_LinkList.genruntimeconfig.cache

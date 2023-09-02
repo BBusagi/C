@@ -1,0 +1,16 @@
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project002_MaxSubarray_2\bin\Debug\net5.0\project002_MaxSubarray_2.exe
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project002_MaxSubarray_2\bin\Debug\net5.0\project002_MaxSubarray_2.deps.json
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project002_MaxSubarray_2\bin\Debug\net5.0\project002_MaxSubarray_2.runtimeconfig.json
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project002_MaxSubarray_2\bin\Debug\net5.0\project002_MaxSubarray_2.runtimeconfig.dev.json
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project002_MaxSubarray_2\bin\Debug\net5.0\project002_MaxSubarray_2.dll
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project002_MaxSubarray_2\bin\Debug\net5.0\ref\project002_MaxSubarray_2.dll
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project002_MaxSubarray_2\bin\Debug\net5.0\project002_MaxSubarray_2.pdb
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project002_MaxSubarray_2\obj\Debug\net5.0\project002_MaxSubarray_2.csproj.AssemblyReference.cache
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project002_MaxSubarray_2\obj\Debug\net5.0\project002_MaxSubarray_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project002_MaxSubarray_2\obj\Debug\net5.0\project002_MaxSubarray_2.AssemblyInfoInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project002_MaxSubarray_2\obj\Debug\net5.0\project002_MaxSubarray_2.AssemblyInfo.cs
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project002_MaxSubarray_2\obj\Debug\net5.0\project002_MaxSubarray_2.csproj.CoreCompileInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project002_MaxSubarray_2\obj\Debug\net5.0\project002_MaxSubarray_2.dll
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project002_MaxSubarray_2\obj\Debug\net5.0\ref\project002_MaxSubarray_2.dll
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project002_MaxSubarray_2\obj\Debug\net5.0\project002_MaxSubarray_2.pdb
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project002_MaxSubarray_2\obj\Debug\net5.0\project002_MaxSubarray_2.genruntimeconfig.cache

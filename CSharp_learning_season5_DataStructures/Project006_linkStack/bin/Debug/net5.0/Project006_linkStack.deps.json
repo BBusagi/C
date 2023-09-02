@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Project006_linkStack/1.0.0": {
+        "runtime": {
+          "Project006_linkStack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project006_linkStack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

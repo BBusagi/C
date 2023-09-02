@@ -1,0 +1,14 @@
+E:\PL_IDE\C#\CSharp_learning_season2\Project_001 class\obj\Debug\netcoreapp3.1\Project_001_attribute.csproj.AssemblyReference.cache
+E:\PL_IDE\C#\CSharp_learning_season2\Project_001 class\obj\Debug\netcoreapp3.1\Project_001_attribute.GeneratedMSBuildEditorConfig.editorconfig
+E:\PL_IDE\C#\CSharp_learning_season2\Project_001 class\obj\Debug\netcoreapp3.1\Project_001_attribute.AssemblyInfoInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season2\Project_001 class\obj\Debug\netcoreapp3.1\Project_001_attribute.AssemblyInfo.cs
+E:\PL_IDE\C#\CSharp_learning_season2\Project_001 class\obj\Debug\netcoreapp3.1\Project_001_attribute.csproj.CoreCompileInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season2\Project_001 class\bin\Debug\netcoreapp3.1\Project_001_attribute.exe
+E:\PL_IDE\C#\CSharp_learning_season2\Project_001 class\bin\Debug\netcoreapp3.1\Project_001_attribute.deps.json
+E:\PL_IDE\C#\CSharp_learning_season2\Project_001 class\bin\Debug\netcoreapp3.1\Project_001_attribute.runtimeconfig.json
+E:\PL_IDE\C#\CSharp_learning_season2\Project_001 class\bin\Debug\netcoreapp3.1\Project_001_attribute.runtimeconfig.dev.json
+E:\PL_IDE\C#\CSharp_learning_season2\Project_001 class\bin\Debug\netcoreapp3.1\Project_001_attribute.dll
+E:\PL_IDE\C#\CSharp_learning_season2\Project_001 class\bin\Debug\netcoreapp3.1\Project_001_attribute.pdb
+E:\PL_IDE\C#\CSharp_learning_season2\Project_001 class\obj\Debug\netcoreapp3.1\Project_001_attribute.dll
+E:\PL_IDE\C#\CSharp_learning_season2\Project_001 class\obj\Debug\netcoreapp3.1\Project_001_attribute.pdb
+E:\PL_IDE\C#\CSharp_learning_season2\Project_001 class\obj\Debug\netcoreapp3.1\Project_001_attribute.genruntimeconfig.cache

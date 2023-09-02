@@ -1,0 +1,15 @@
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project001\bin\Debug\net5.0\project001_MaxSubarray_1.exe
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project001\bin\Debug\net5.0\project001_MaxSubarray_1.deps.json
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project001\bin\Debug\net5.0\project001_MaxSubarray_1.runtimeconfig.json
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project001\bin\Debug\net5.0\project001_MaxSubarray_1.runtimeconfig.dev.json
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project001\bin\Debug\net5.0\project001_MaxSubarray_1.dll
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project001\bin\Debug\net5.0\ref\project001_MaxSubarray_1.dll
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project001\bin\Debug\net5.0\project001_MaxSubarray_1.pdb
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project001\obj\Debug\net5.0\project001_MaxSubarray_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project001\obj\Debug\net5.0\project001_MaxSubarray_1.AssemblyInfoInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project001\obj\Debug\net5.0\project001_MaxSubarray_1.AssemblyInfo.cs
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project001\obj\Debug\net5.0\project001_MaxSubarray_1.csproj.CoreCompileInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project001\obj\Debug\net5.0\project001_MaxSubarray_1.dll
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project001\obj\Debug\net5.0\ref\project001_MaxSubarray_1.dll
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project001\obj\Debug\net5.0\project001_MaxSubarray_1.pdb
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\project001\obj\Debug\net5.0\project001_MaxSubarray_1.genruntimeconfig.cache

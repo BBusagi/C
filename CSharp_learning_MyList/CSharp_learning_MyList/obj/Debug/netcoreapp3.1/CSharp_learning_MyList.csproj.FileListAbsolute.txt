@@ -1,0 +1,14 @@
+E:\PL_IDE\C#\CSharp_learning_MyList\CSharp_learning_MyList\bin\Debug\netcoreapp3.1\CSharp_learning_MyList.exe
+E:\PL_IDE\C#\CSharp_learning_MyList\CSharp_learning_MyList\bin\Debug\netcoreapp3.1\CSharp_learning_MyList.deps.json
+E:\PL_IDE\C#\CSharp_learning_MyList\CSharp_learning_MyList\bin\Debug\netcoreapp3.1\CSharp_learning_MyList.runtimeconfig.json
+E:\PL_IDE\C#\CSharp_learning_MyList\CSharp_learning_MyList\bin\Debug\netcoreapp3.1\CSharp_learning_MyList.runtimeconfig.dev.json
+E:\PL_IDE\C#\CSharp_learning_MyList\CSharp_learning_MyList\bin\Debug\netcoreapp3.1\CSharp_learning_MyList.dll
+E:\PL_IDE\C#\CSharp_learning_MyList\CSharp_learning_MyList\bin\Debug\netcoreapp3.1\CSharp_learning_MyList.pdb
+E:\PL_IDE\C#\CSharp_learning_MyList\CSharp_learning_MyList\obj\Debug\netcoreapp3.1\CSharp_learning_MyList.csproj.AssemblyReference.cache
+E:\PL_IDE\C#\CSharp_learning_MyList\CSharp_learning_MyList\obj\Debug\netcoreapp3.1\CSharp_learning_MyList.GeneratedMSBuildEditorConfig.editorconfig
+E:\PL_IDE\C#\CSharp_learning_MyList\CSharp_learning_MyList\obj\Debug\netcoreapp3.1\CSharp_learning_MyList.AssemblyInfoInputs.cache
+E:\PL_IDE\C#\CSharp_learning_MyList\CSharp_learning_MyList\obj\Debug\netcoreapp3.1\CSharp_learning_MyList.AssemblyInfo.cs
+E:\PL_IDE\C#\CSharp_learning_MyList\CSharp_learning_MyList\obj\Debug\netcoreapp3.1\CSharp_learning_MyList.csproj.CoreCompileInputs.cache
+E:\PL_IDE\C#\CSharp_learning_MyList\CSharp_learning_MyList\obj\Debug\netcoreapp3.1\CSharp_learning_MyList.dll
+E:\PL_IDE\C#\CSharp_learning_MyList\CSharp_learning_MyList\obj\Debug\netcoreapp3.1\CSharp_learning_MyList.pdb
+E:\PL_IDE\C#\CSharp_learning_MyList\CSharp_learning_MyList\obj\Debug\netcoreapp3.1\CSharp_learning_MyList.genruntimeconfig.cache

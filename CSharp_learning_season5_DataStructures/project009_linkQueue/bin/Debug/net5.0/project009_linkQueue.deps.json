@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "project009_linkQueue/1.0.0": {
+        "runtime": {
+          "project009_linkQueue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "project009_linkQueue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

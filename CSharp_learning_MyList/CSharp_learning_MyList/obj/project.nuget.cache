@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4fkvKl4veDkWK1rVYrq5RpBDhbeJgYzRcd9S0Hz/EjhitX2c4X/UGtjqIH3qc/yBFaz2CE1EpIjRhDq55FQ5LQ==",
+  "success": true,
+  "projectFilePath": "E:\\PL_IDE\\C#\\CSharp_learning_MyList\\CSharp_learning_MyList\\CSharp_learning_MyList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BBRabbit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\BBRabbit\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\BBRabbit\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\BBRabbit\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.20\\microsoft.netcore.app.host.win-x86.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "project001_MaxSubarray_1/1.0.0": {
+        "runtime": {
+          "project001_MaxSubarray_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "project001_MaxSubarray_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

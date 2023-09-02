@@ -1,0 +1,16 @@
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\temp\bin\Debug\net5.0\temp.exe
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\temp\bin\Debug\net5.0\temp.deps.json
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\temp\bin\Debug\net5.0\temp.runtimeconfig.json
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\temp\bin\Debug\net5.0\temp.runtimeconfig.dev.json
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\temp\bin\Debug\net5.0\temp.dll
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\temp\bin\Debug\net5.0\ref\temp.dll
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\temp\bin\Debug\net5.0\temp.pdb
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\temp\obj\Debug\net5.0\temp.csproj.AssemblyReference.cache
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\temp\obj\Debug\net5.0\temp.GeneratedMSBuildEditorConfig.editorconfig
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\temp\obj\Debug\net5.0\temp.AssemblyInfoInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\temp\obj\Debug\net5.0\temp.AssemblyInfo.cs
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\temp\obj\Debug\net5.0\temp.csproj.CoreCompileInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\temp\obj\Debug\net5.0\temp.dll
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\temp\obj\Debug\net5.0\ref\temp.dll
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\temp\obj\Debug\net5.0\temp.pdb
+E:\PL_IDE\C#\CSharp_learning_season6_Algorithm\temp\obj\Debug\net5.0\temp.genruntimeconfig.cache

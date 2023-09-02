@@ -1,0 +1,14 @@
+E:\PL_IDE\C#\CSharp_learing_season1\project_003_variable\bin\Debug\netcoreapp3.1\project_003_variable type.exe
+E:\PL_IDE\C#\CSharp_learing_season1\project_003_variable\bin\Debug\netcoreapp3.1\project_003_variable type.deps.json
+E:\PL_IDE\C#\CSharp_learing_season1\project_003_variable\bin\Debug\netcoreapp3.1\project_003_variable type.runtimeconfig.json
+E:\PL_IDE\C#\CSharp_learing_season1\project_003_variable\bin\Debug\netcoreapp3.1\project_003_variable type.runtimeconfig.dev.json
+E:\PL_IDE\C#\CSharp_learing_season1\project_003_variable\bin\Debug\netcoreapp3.1\project_003_variable type.dll
+E:\PL_IDE\C#\CSharp_learing_season1\project_003_variable\bin\Debug\netcoreapp3.1\project_003_variable type.pdb
+E:\PL_IDE\C#\CSharp_learing_season1\project_003_variable\obj\Debug\netcoreapp3.1\project_003_variable type.csproj.AssemblyReference.cache
+E:\PL_IDE\C#\CSharp_learing_season1\project_003_variable\obj\Debug\netcoreapp3.1\project_003_variable type.GeneratedMSBuildEditorConfig.editorconfig
+E:\PL_IDE\C#\CSharp_learing_season1\project_003_variable\obj\Debug\netcoreapp3.1\project_003_variable type.AssemblyInfoInputs.cache
+E:\PL_IDE\C#\CSharp_learing_season1\project_003_variable\obj\Debug\netcoreapp3.1\project_003_variable type.AssemblyInfo.cs
+E:\PL_IDE\C#\CSharp_learing_season1\project_003_variable\obj\Debug\netcoreapp3.1\project_003_variable type.csproj.CoreCompileInputs.cache
+E:\PL_IDE\C#\CSharp_learing_season1\project_003_variable\obj\Debug\netcoreapp3.1\project_003_variable type.dll
+E:\PL_IDE\C#\CSharp_learing_season1\project_003_variable\obj\Debug\netcoreapp3.1\project_003_variable type.pdb
+E:\PL_IDE\C#\CSharp_learing_season1\project_003_variable\obj\Debug\netcoreapp3.1\project_003_variable type.genruntimeconfig.cache

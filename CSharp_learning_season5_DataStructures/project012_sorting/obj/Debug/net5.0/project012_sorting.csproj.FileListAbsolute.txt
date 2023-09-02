@@ -1,0 +1,16 @@
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project012_sorting\bin\Debug\net5.0\project012_sorting.exe
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project012_sorting\bin\Debug\net5.0\project012_sorting.deps.json
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project012_sorting\bin\Debug\net5.0\project012_sorting.runtimeconfig.json
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project012_sorting\bin\Debug\net5.0\project012_sorting.runtimeconfig.dev.json
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project012_sorting\bin\Debug\net5.0\project012_sorting.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project012_sorting\bin\Debug\net5.0\ref\project012_sorting.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project012_sorting\bin\Debug\net5.0\project012_sorting.pdb
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project012_sorting\obj\Debug\net5.0\project012_sorting.csproj.AssemblyReference.cache
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project012_sorting\obj\Debug\net5.0\project012_sorting.GeneratedMSBuildEditorConfig.editorconfig
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project012_sorting\obj\Debug\net5.0\project012_sorting.AssemblyInfoInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project012_sorting\obj\Debug\net5.0\project012_sorting.AssemblyInfo.cs
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project012_sorting\obj\Debug\net5.0\project012_sorting.csproj.CoreCompileInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project012_sorting\obj\Debug\net5.0\project012_sorting.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project012_sorting\obj\Debug\net5.0\ref\project012_sorting.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project012_sorting\obj\Debug\net5.0\project012_sorting.pdb
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project012_sorting\obj\Debug\net5.0\project012_sorting.genruntimeconfig.cache

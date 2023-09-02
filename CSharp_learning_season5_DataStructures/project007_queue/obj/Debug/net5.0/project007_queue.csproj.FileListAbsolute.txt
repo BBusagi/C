@@ -1,0 +1,15 @@
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project007_queue\bin\Debug\net5.0\project007_queue.exe
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project007_queue\bin\Debug\net5.0\project007_queue.deps.json
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project007_queue\bin\Debug\net5.0\project007_queue.runtimeconfig.json
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project007_queue\bin\Debug\net5.0\project007_queue.runtimeconfig.dev.json
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project007_queue\bin\Debug\net5.0\project007_queue.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project007_queue\bin\Debug\net5.0\ref\project007_queue.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project007_queue\bin\Debug\net5.0\project007_queue.pdb
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project007_queue\obj\Debug\net5.0\project007_queue.GeneratedMSBuildEditorConfig.editorconfig
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project007_queue\obj\Debug\net5.0\project007_queue.AssemblyInfoInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project007_queue\obj\Debug\net5.0\project007_queue.AssemblyInfo.cs
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project007_queue\obj\Debug\net5.0\project007_queue.csproj.CoreCompileInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project007_queue\obj\Debug\net5.0\project007_queue.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project007_queue\obj\Debug\net5.0\ref\project007_queue.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project007_queue\obj\Debug\net5.0\project007_queue.pdb
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project007_queue\obj\Debug\net5.0\project007_queue.genruntimeconfig.cache

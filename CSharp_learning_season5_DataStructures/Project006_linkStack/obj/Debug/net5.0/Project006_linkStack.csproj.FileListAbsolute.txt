@@ -1,0 +1,16 @@
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project006_linkStack\bin\Debug\net5.0\Project006_linkStack.exe
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project006_linkStack\bin\Debug\net5.0\Project006_linkStack.deps.json
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project006_linkStack\bin\Debug\net5.0\Project006_linkStack.runtimeconfig.json
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project006_linkStack\bin\Debug\net5.0\Project006_linkStack.runtimeconfig.dev.json
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project006_linkStack\bin\Debug\net5.0\Project006_linkStack.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project006_linkStack\bin\Debug\net5.0\ref\Project006_linkStack.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project006_linkStack\bin\Debug\net5.0\Project006_linkStack.pdb
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project006_linkStack\obj\Debug\net5.0\Project006_linkStack.csproj.AssemblyReference.cache
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project006_linkStack\obj\Debug\net5.0\Project006_linkStack.GeneratedMSBuildEditorConfig.editorconfig
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project006_linkStack\obj\Debug\net5.0\Project006_linkStack.AssemblyInfoInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project006_linkStack\obj\Debug\net5.0\Project006_linkStack.AssemblyInfo.cs
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project006_linkStack\obj\Debug\net5.0\Project006_linkStack.csproj.CoreCompileInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project006_linkStack\obj\Debug\net5.0\Project006_linkStack.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project006_linkStack\obj\Debug\net5.0\ref\Project006_linkStack.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project006_linkStack\obj\Debug\net5.0\Project006_linkStack.pdb
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\Project006_linkStack\obj\Debug\net5.0\Project006_linkStack.genruntimeconfig.cache

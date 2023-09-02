@@ -1,0 +1,13 @@
+E:\PL_IDE\C#\CSharp_learing_season1\Practice 01\bin\Debug\netcoreapp3.1\Practice 01.exe
+E:\PL_IDE\C#\CSharp_learing_season1\Practice 01\bin\Debug\netcoreapp3.1\Practice 01.deps.json
+E:\PL_IDE\C#\CSharp_learing_season1\Practice 01\bin\Debug\netcoreapp3.1\Practice 01.runtimeconfig.json
+E:\PL_IDE\C#\CSharp_learing_season1\Practice 01\bin\Debug\netcoreapp3.1\Practice 01.runtimeconfig.dev.json
+E:\PL_IDE\C#\CSharp_learing_season1\Practice 01\bin\Debug\netcoreapp3.1\Practice 01.dll
+E:\PL_IDE\C#\CSharp_learing_season1\Practice 01\bin\Debug\netcoreapp3.1\Practice 01.pdb
+E:\PL_IDE\C#\CSharp_learing_season1\Practice 01\obj\Debug\netcoreapp3.1\Practice 01.GeneratedMSBuildEditorConfig.editorconfig
+E:\PL_IDE\C#\CSharp_learing_season1\Practice 01\obj\Debug\netcoreapp3.1\Practice 01.AssemblyInfoInputs.cache
+E:\PL_IDE\C#\CSharp_learing_season1\Practice 01\obj\Debug\netcoreapp3.1\Practice 01.AssemblyInfo.cs
+E:\PL_IDE\C#\CSharp_learing_season1\Practice 01\obj\Debug\netcoreapp3.1\Practice 01.csproj.CoreCompileInputs.cache
+E:\PL_IDE\C#\CSharp_learing_season1\Practice 01\obj\Debug\netcoreapp3.1\Practice 01.dll
+E:\PL_IDE\C#\CSharp_learing_season1\Practice 01\obj\Debug\netcoreapp3.1\Practice 01.pdb
+E:\PL_IDE\C#\CSharp_learing_season1\Practice 01\obj\Debug\netcoreapp3.1\Practice 01.genruntimeconfig.cache

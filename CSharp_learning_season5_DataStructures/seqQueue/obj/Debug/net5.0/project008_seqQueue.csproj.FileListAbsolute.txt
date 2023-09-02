@@ -1,0 +1,15 @@
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\seqQueue\bin\Debug\net5.0\project008_seqQueue.exe
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\seqQueue\bin\Debug\net5.0\project008_seqQueue.deps.json
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\seqQueue\bin\Debug\net5.0\project008_seqQueue.runtimeconfig.json
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\seqQueue\bin\Debug\net5.0\project008_seqQueue.runtimeconfig.dev.json
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\seqQueue\bin\Debug\net5.0\project008_seqQueue.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\seqQueue\bin\Debug\net5.0\ref\project008_seqQueue.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\seqQueue\bin\Debug\net5.0\project008_seqQueue.pdb
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\seqQueue\obj\Debug\net5.0\project008_seqQueue.GeneratedMSBuildEditorConfig.editorconfig
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\seqQueue\obj\Debug\net5.0\project008_seqQueue.AssemblyInfoInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\seqQueue\obj\Debug\net5.0\project008_seqQueue.AssemblyInfo.cs
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\seqQueue\obj\Debug\net5.0\project008_seqQueue.csproj.CoreCompileInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\seqQueue\obj\Debug\net5.0\project008_seqQueue.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\seqQueue\obj\Debug\net5.0\ref\project008_seqQueue.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\seqQueue\obj\Debug\net5.0\project008_seqQueue.pdb
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\seqQueue\obj\Debug\net5.0\project008_seqQueue.genruntimeconfig.cache

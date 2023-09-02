@@ -1,0 +1,15 @@
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project001_strList\obj\Debug\net5.0\project002_strList.GeneratedMSBuildEditorConfig.editorconfig
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project001_strList\obj\Debug\net5.0\project002_strList.AssemblyInfoInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project001_strList\obj\Debug\net5.0\project002_strList.AssemblyInfo.cs
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project001_strList\obj\Debug\net5.0\project002_strList.csproj.CoreCompileInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project001_strList\bin\Debug\net5.0\project002_strList.exe
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project001_strList\bin\Debug\net5.0\project002_strList.deps.json
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project001_strList\bin\Debug\net5.0\project002_strList.runtimeconfig.json
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project001_strList\bin\Debug\net5.0\project002_strList.runtimeconfig.dev.json
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project001_strList\bin\Debug\net5.0\project002_strList.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project001_strList\bin\Debug\net5.0\ref\project002_strList.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project001_strList\bin\Debug\net5.0\project002_strList.pdb
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project001_strList\obj\Debug\net5.0\project002_strList.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project001_strList\obj\Debug\net5.0\ref\project002_strList.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project001_strList\obj\Debug\net5.0\project002_strList.pdb
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project001_strList\obj\Debug\net5.0\project002_strList.genruntimeconfig.cache

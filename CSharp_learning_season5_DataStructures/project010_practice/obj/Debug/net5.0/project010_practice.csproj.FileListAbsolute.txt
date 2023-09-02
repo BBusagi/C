@@ -1,0 +1,15 @@
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project010_practice\bin\Debug\net5.0\project010_practice.exe
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project010_practice\bin\Debug\net5.0\project010_practice.deps.json
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project010_practice\bin\Debug\net5.0\project010_practice.runtimeconfig.json
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project010_practice\bin\Debug\net5.0\project010_practice.runtimeconfig.dev.json
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project010_practice\bin\Debug\net5.0\project010_practice.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project010_practice\bin\Debug\net5.0\ref\project010_practice.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project010_practice\bin\Debug\net5.0\project010_practice.pdb
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project010_practice\obj\Debug\net5.0\project010_practice.GeneratedMSBuildEditorConfig.editorconfig
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project010_practice\obj\Debug\net5.0\project010_practice.AssemblyInfoInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project010_practice\obj\Debug\net5.0\project010_practice.AssemblyInfo.cs
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project010_practice\obj\Debug\net5.0\project010_practice.csproj.CoreCompileInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project010_practice\obj\Debug\net5.0\project010_practice.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project010_practice\obj\Debug\net5.0\ref\project010_practice.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project010_practice\obj\Debug\net5.0\project010_practice.pdb
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project010_practice\obj\Debug\net5.0\project010_practice.genruntimeconfig.cache

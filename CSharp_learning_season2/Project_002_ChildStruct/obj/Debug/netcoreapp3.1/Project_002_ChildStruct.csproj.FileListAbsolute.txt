@@ -1,0 +1,13 @@
+E:\PL_IDE\C#\CSharp_learning_season2\Project_002_ChildStruct\bin\Debug\netcoreapp3.1\Project_002_ChildStruct.exe
+E:\PL_IDE\C#\CSharp_learning_season2\Project_002_ChildStruct\bin\Debug\netcoreapp3.1\Project_002_ChildStruct.deps.json
+E:\PL_IDE\C#\CSharp_learning_season2\Project_002_ChildStruct\bin\Debug\netcoreapp3.1\Project_002_ChildStruct.runtimeconfig.json
+E:\PL_IDE\C#\CSharp_learning_season2\Project_002_ChildStruct\bin\Debug\netcoreapp3.1\Project_002_ChildStruct.runtimeconfig.dev.json
+E:\PL_IDE\C#\CSharp_learning_season2\Project_002_ChildStruct\bin\Debug\netcoreapp3.1\Project_002_ChildStruct.dll
+E:\PL_IDE\C#\CSharp_learning_season2\Project_002_ChildStruct\bin\Debug\netcoreapp3.1\Project_002_ChildStruct.pdb
+E:\PL_IDE\C#\CSharp_learning_season2\Project_002_ChildStruct\obj\Debug\netcoreapp3.1\Project_002_ChildStruct.GeneratedMSBuildEditorConfig.editorconfig
+E:\PL_IDE\C#\CSharp_learning_season2\Project_002_ChildStruct\obj\Debug\netcoreapp3.1\Project_002_ChildStruct.AssemblyInfoInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season2\Project_002_ChildStruct\obj\Debug\netcoreapp3.1\Project_002_ChildStruct.AssemblyInfo.cs
+E:\PL_IDE\C#\CSharp_learning_season2\Project_002_ChildStruct\obj\Debug\netcoreapp3.1\Project_002_ChildStruct.csproj.CoreCompileInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season2\Project_002_ChildStruct\obj\Debug\netcoreapp3.1\Project_002_ChildStruct.dll
+E:\PL_IDE\C#\CSharp_learning_season2\Project_002_ChildStruct\obj\Debug\netcoreapp3.1\Project_002_ChildStruct.pdb
+E:\PL_IDE\C#\CSharp_learning_season2\Project_002_ChildStruct\obj\Debug\netcoreapp3.1\Project_002_ChildStruct.genruntimeconfig.cache

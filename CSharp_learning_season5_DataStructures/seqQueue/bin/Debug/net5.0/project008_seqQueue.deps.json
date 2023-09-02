@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "project008_seqQueue/1.0.0": {
+        "runtime": {
+          "project008_seqQueue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "project008_seqQueue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project004_stack\bin\Debug\net5.0\project004_stack.exe
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project004_stack\bin\Debug\net5.0\project004_stack.deps.json
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project004_stack\bin\Debug\net5.0\project004_stack.runtimeconfig.json
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project004_stack\bin\Debug\net5.0\project004_stack.runtimeconfig.dev.json
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project004_stack\bin\Debug\net5.0\project004_stack.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project004_stack\bin\Debug\net5.0\ref\project004_stack.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project004_stack\bin\Debug\net5.0\project004_stack.pdb
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project004_stack\obj\Debug\net5.0\project004_stack.csproj.AssemblyReference.cache
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project004_stack\obj\Debug\net5.0\project004_stack.GeneratedMSBuildEditorConfig.editorconfig
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project004_stack\obj\Debug\net5.0\project004_stack.AssemblyInfoInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project004_stack\obj\Debug\net5.0\project004_stack.AssemblyInfo.cs
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project004_stack\obj\Debug\net5.0\project004_stack.csproj.CoreCompileInputs.cache
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project004_stack\obj\Debug\net5.0\project004_stack.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project004_stack\obj\Debug\net5.0\ref\project004_stack.dll
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project004_stack\obj\Debug\net5.0\project004_stack.pdb
+E:\PL_IDE\C#\CSharp_learning_season5_DataStructures\project004_stack\obj\Debug\net5.0\project004_stack.genruntimeconfig.cache

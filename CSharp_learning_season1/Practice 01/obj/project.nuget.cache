@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "l/l3t/4MM6HIThLDRd6pdECEWcM817YkWMANEF4K4RLnBMCEJVhq33GVbU5lmA6XsLAdnYDhbXvxuS2AmJCAAQ==",
+  "success": true,
+  "projectFilePath": "E:\\PL_IDE\\C#\\CSharp_learning_season1\\Practice 01\\Practice 01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BBRabbit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\BBRabbit\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\BBRabbit\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\BBRabbit\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.20\\microsoft.netcore.app.host.win-x86.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
