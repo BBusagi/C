@@ -27,3 +27,6 @@ E:\PL_IDE\C\LINQ\obj\Debug\net8.0\refint\LINQ.dll
 E:\PL_IDE\C\LINQ\obj\Debug\net8.0\LINQ.pdb
 E:\PL_IDE\C\LINQ\obj\Debug\net8.0\LINQ.genruntimeconfig.cache
 E:\PL_IDE\C\LINQ\obj\Debug\net8.0\ref\LINQ.dll
+E:\PL_IDE\C\LINQ\bin\Debug\net8.0\MoreLinq.dll
+E:\PL_IDE\C\LINQ\obj\Debug\net8.0\LINQ.csproj.AssemblyReference.cache
+E:\PL_IDE\C\LINQ\obj\Debug\net8.0\LINQ.csproj.Up2Date

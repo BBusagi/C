@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "a2ChnKM2Gfs=",
+  "dgSpecHash": "1Wk+ZQs4fk8=",
   "success": true,
   "projectFilePath": "E:\\PL_IDE\\C\\LINQ\\LINQ.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\morelinq\\4.3.0\\morelinq.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
