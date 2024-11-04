@@ -1,16 +1,16 @@
 ##
 VSCode  /* */  Shift + Alt + A
 
-##
+## 表示时间
 TimeSpan    时间间隔  
 Time.deltaTime  当前帧和上一帧之间的时间间隔
 
-##
+## 资源管理和释放
 IDisposable     单个对象的资源释放  
 IDisposable[]   无生命周期 内存泄漏  
 CompositeDisposable     管理多个 IDisposable 对象的资源释放
 
-##
+## 事件处理
 ### 对比总结
 | 特性| `Subject` | `Action` | `UnityEvent`| `event Action`|
 |-------------------------|----------------------------------|--------------------------------|--------------------------------|------------------------------|
@@ -26,3 +26,5 @@ CompositeDisposable     管理多个 IDisposable 对象的资源释放
 - **`Action`**：适合轻量级的回调机制，适用于需要动态设置和更自由的委托回调。
 - **`UnityEvent`**：适用于 Unity 编辑器配置的事件处理，特别适合 UI 和设计时配置的事件。
 - **`event Action`**：适合需要封装性、希望外部代码仅能订阅但不能触发事件的场景，通常用于系统状态变化通知或解耦组件间的事件通信。
+
+## 操作符 [URL](https://gitee.com/xiaoTNT/uni-rx-intensive-lecture/tree/master)
