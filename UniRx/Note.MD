@@ -28,3 +28,12 @@ CompositeDisposable     管理多个 IDisposable 对象的资源释放
 - **`event Action`**：适合需要封装性、希望外部代码仅能订阅但不能触发事件的场景，通常用于系统状态变化通知或解耦组件间的事件通信。
 
 ## 操作符 [URL](https://gitee.com/xiaoTNT/uni-rx-intensive-lecture/tree/master)
+常用操作符：  
++ where
++ first
++ take
++ buffer
++ delay
++ return 提供单一的数据流
++ do 不影响数据流自身
++ catch 异常捕捉
