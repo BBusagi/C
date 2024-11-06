@@ -37,3 +37,7 @@ CompositeDisposable     管理多个 IDisposable 对象的资源释放
 + return 提供单一的数据流
 + do 不影响数据流自身
 + catch 异常捕捉
+
+## 利用UniRx解决协程的弊端
+1. 返回值必须为Enumberator(为什么？)
+2. 无法使用try-catch捕捉异常

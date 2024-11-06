@@ -12,3 +12,18 @@ All files for { c#, c++, c} exercises
 ## UniRx
 + [UniRx系列教程](https://space.bilibili.com/527444290/channel/collectiondetail?sid=658557&spm_id_from=333.788.0.0)
 + [UniRx精讲](https://gitee.com/xiaoTNT/uni-rx-intensive-lecture/tree/master)
+
+## TODO 
++ unitask
++ vcontainer
++ dots
++ Addressables
++ DoTween
++ Cinemachine 部分已完成
++ photon 工作已完成
++ Odin Inspector（增强 Inspector）
+
+## Packages 
++ Odin Inspector and Serializer
++ Console Enhanced Pro
++ LeonTouch
