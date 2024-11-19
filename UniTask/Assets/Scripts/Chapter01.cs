@@ -21,7 +21,7 @@ public class Chapter01 : MonoBehaviour
     {
         LoadTextButton.onClick.AddListener(OnLoadText);
         LoadSceneButton.onClick.AddListener(OnLoadScene);
-        WebRequestButton.onClick.AddListener(OnClickWebRequest);
+        WebRequestButton.onClick.AddListener(OnLoadImageWebRequest);
     }
 
     private async void OnLoadScene()
@@ -47,7 +47,7 @@ public class Chapter01 : MonoBehaviour
         TextBoard.text = ((TextAsset)(await unitaskAsyncLoader.LoadAsync<TextAsset>("Test"))).text;
     }
 
-    private async void OnClickWebRequest()
+    private async void OnLoadImageWebRequest()
     {
         var webRequest = UnityWebRequestTexture.GetTexture("https://i0.hdslb.com/bfs/static/jinkela/video/asserts/33-coin-ani.png");
         var result = await webRequest.SendWebRequest();
@@ -59,25 +59,20 @@ public class Chapter01 : MonoBehaviour
         for (int i = 0; i < spriteCount; i++)
         {
             sprites[i] = Sprite.Create(
-                texture, 
+                texture,
                 new Rect(perSperiteWidth * i, 0, perSperiteWidth, texture.height),
                 new Vector2(0.5f, 0.5f)
                 );
         }
         float perFrameTime = 0.1f;
-        while(true)
+        while (true)
         {
-            for(int i =0; i < spriteCount; i++)
+            for (int i = 0; i < spriteCount; i++)
             {
                 await UniTask.Delay(TimeSpan.FromSeconds(perFrameTime));
                 var sprite = sprites[i];
                 DownloadImage.sprite = sprite;
             }
         }
-    }
-
-    void Update()
-    {
-
     }
 }
