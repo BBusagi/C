@@ -156,7 +156,7 @@ RectTransform:
   m_Children:
   - {fileID: 755271759}
   m_Father: {fileID: 1085346161}
-  m_RootOrder: 2
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
@@ -438,7 +438,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Button
+  m_text: EndofFrame
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -573,7 +573,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Button
+  m_text: Yield
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -933,7 +933,7 @@ GameObject:
   - component: {fileID: 910487341}
   - component: {fileID: 910487340}
   m_Layer: 5
-  m_Name: Button (1)
+  m_Name: EndofFrameButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -953,7 +953,7 @@ RectTransform:
   m_Children:
   - {fileID: 570878410}
   m_Father: {fileID: 1085346161}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
@@ -1055,7 +1055,7 @@ GameObject:
   - component: {fileID: 993393770}
   - component: {fileID: 993393769}
   m_Layer: 5
-  m_Name: Button (3)
+  m_Name: YieldButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1075,7 +1075,7 @@ RectTransform:
   m_Children:
   - {fileID: 681404992}
   m_Father: {fileID: 1085346161}
-  m_RootOrder: 5
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
@@ -1208,8 +1208,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8289bc72ad0241e4381ac331a6ed53f7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TestYieldTiming: 6
   DelayButton: {fileID: 1379414117}
   DelayFrameButton: {fileID: 1143489809}
+  YieldButton: {fileID: 993393769}
+  NextFrameButton: {fileID: 1628027719}
+  EndofFrameButton: {fileID: 910487340}
 --- !u!1 &1085346157
 GameObject:
   m_ObjectHideFlags: 0
@@ -1305,10 +1309,10 @@ RectTransform:
   m_Children:
   - {fileID: 1379414116}
   - {fileID: 1143489808}
-  - {fileID: 33279289}
-  - {fileID: 910487339}
-  - {fileID: 1628027718}
   - {fileID: 993393768}
+  - {fileID: 1628027718}
+  - {fileID: 910487339}
+  - {fileID: 33279289}
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1752,7 +1756,7 @@ GameObject:
   - component: {fileID: 1628027720}
   - component: {fileID: 1628027719}
   m_Layer: 5
-  m_Name: Button (2)
+  m_Name: NextFrameButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1772,7 +1776,7 @@ RectTransform:
   m_Children:
   - {fileID: 1729071767}
   m_Father: {fileID: 1085346161}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
@@ -1919,7 +1923,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Button
+  m_text: NextFrame
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
