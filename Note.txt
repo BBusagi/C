@@ -1,3 +1,11 @@
 Unitask 可以将所有的异步转化
-Unitask.delay option 是否忽略timescle，
-	-》 游戏暂停，但时间继续
+Unitask.delay [option] 
+选择delay类型
+是否忽略timescle，	-》 游戏暂停，但时间继续
+
+yield unitask独有 性能最佳
+
+扩展方法 查看底层（动态插入），修改生命周期并取消修改
+playerlooptiming  具体的生命周期
+全局生命周期方法
+https://docs.unity3d.com/2021.3/Documentation/Manual/ExecutionOrder.html
