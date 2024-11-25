@@ -14,7 +14,7 @@ All files for { c#, c++, c} exercises
 
 ## UniTask
 最优秀的异步调用库
-+ [精选Unity开源库分享及解说](https://space.bilibili.com/69585/channel/collectiondetail?sid=548041)
++ [精选Unity开源库分享及解说](https://space.bilibili.com/69585/channel/collectiondetail?sid=548041) - [gitee]https://gitee.com/yicunjun/share-github-sample/tree/master/Assets/UniTaskTutorial
 + [官方中文文档](https://github.com/Cysharp/UniTask/blob/master/README_CN.md)
 + [UniTask – Unityでasync/awaitを最高のパフォーマンスで実現するライブラリ](https://tech.cygames.co.jp/archives/3256/)
 + [Deep Dive async/await in Unity with UniTask(UniRx.Async)](https://www.youtube.com/watch?v=irbA4kmq4Wc)
