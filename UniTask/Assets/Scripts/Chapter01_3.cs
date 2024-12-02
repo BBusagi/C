@@ -43,6 +43,7 @@ public class Chapter01_3 : MonoBehaviour
         float timeElasped = 0;
         while (timeElasped <= totalTime)
         {
+            timeElasped += Time.deltaTime;
             await UniTask.NextFrame();
             float runDistance = Mathf.Min(timeElasped,totalTime) * runner.speed;
             runner.Target.position = runner.StartPos + Vector3.right * runDistance;
@@ -63,6 +64,8 @@ public class Chapter01_3 : MonoBehaviour
 
     private async void OnClickWhenAll()
     {
+        //WaitUntilValueChanged
+        
         var firstRunner = UniTask.WaitUntil(() => BallA_Runner.ReachGoal);
         var secondRunner = UniTask.WaitUntil(() => BallB_Runner.ReachGoal);
         await UniTask.WhenAll(firstRunner,secondRunner);

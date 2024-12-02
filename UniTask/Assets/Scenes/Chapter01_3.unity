@@ -1282,6 +1282,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1120782123}
   - component: {fileID: 1120782122}
+  - component: {fileID: 1120782124}
   m_Layer: 0
   m_Name: UniTaskManager
   m_TagString: Untagged
@@ -1308,7 +1309,7 @@ MonoBehaviour:
     ReachGoal: 0
   BallB_Runner:
     Target: {fileID: 1923484354}
-    speed: 5
+    speed: 6
     StartPos: {x: -10, y: 0, z: 0}
     ReachGoal: 0
   BallA_Button: {fileID: 1811150342}
@@ -1316,7 +1317,7 @@ MonoBehaviour:
   WhenAll: {fileID: 243905197}
   WhenAny: {fileID: 1981045566}
   Reset: {fileID: 1838311335}
-  TotalDistance: 15
+  TotalDistance: 20
 --- !u!4 &1120782123
 Transform:
   m_ObjectHideFlags: 0
@@ -1332,6 +1333,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1120782124
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1120782121}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9698b20065fcd5d45a51ab6e5821bca1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1535684462
 GameObject:
   m_ObjectHideFlags: 0
