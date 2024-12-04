@@ -22,17 +22,23 @@ public class UniTaskExample : MonoBehaviour
         await UniTask.Delay(2000);
         Debug.Log("Task 2 completed");
     }
+
+    async UniTask Task3()
+    {
+        await UniTask.Delay(3000);
+        Debug.Log("Task 3 completed");
+    }
     async UniTask TaskWhenAll()
     {
         Debug.Log("Waiting for all tasks to complete...");
-        await UniTask.WhenAll(Task1(),Task2());
+        await UniTask.WhenAll(Task1(),Task2(),Task3());
         Debug.Log("All task completed");
     }
 
     async UniTask TaskWhenAny()
     {
         Debug.Log("Waiting for any task to complete...");
-        await UniTask.WhenAny(Task1(),Task2());
+        await UniTask.WhenAny(Task1(),Task2(),Task3());
         Debug.Log("At least one task completed");
     }
 
