@@ -1,5 +1,5 @@
 # C
-All files for { c#, c++, c} exercises
+All files for { c#, c++, c} exercises 
 
 ## CSharp_learning
 
@@ -13,8 +13,8 @@ All files for { c#, c++, c} exercises
 + [UniRx精讲](https://gitee.com/xiaoTNT/uni-rx-intensive-lecture/tree/master)
 
 ## UniTask
-最优秀的异步调用库
-+ [精选Unity开源库分享及解说](https://space.bilibili.com/69585/channel/collectiondetail?sid=548041) - [gitee]https://gitee.com/yicunjun/share-github-sample/tree/master/Assets/UniTaskTutorial
+最优秀的异步调用库 (面向高级使用者)
++ [精选Unity开源库分享及解说](https://space.bilibili.com/69585/channel/collectiondetail?sid=548041) - [gitee](https://gitee.com/yicunjun/share-github-sample/tree/master/Assets/UniTaskTutorial)
 + [官方中文文档](https://github.com/Cysharp/UniTask/blob/master/README_CN.md)
 + [UniTask – Unityでasync/awaitを最高のパフォーマンスで実現するライブラリ](https://tech.cygames.co.jp/archives/3256/)
 + [Deep Dive async/await in Unity with UniTask(UniRx.Async)](https://www.youtube.com/watch?v=irbA4kmq4Wc)
@@ -35,3 +35,6 @@ All files for { c#, c++, c} exercises
 + Odin Inspector and Serializer
 + Console Enhanced Pro
 + LeonTouch
+
+# Reference
+[全局生命周期方法](https://docs.unity3d.com/2021.3/Documentation/Manual/ExecutionOrder.html)

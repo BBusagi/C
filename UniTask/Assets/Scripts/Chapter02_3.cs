@@ -10,7 +10,7 @@ public class Chapter02_3 : MonoBehaviour
     public Button button;
     public GameObject targetGO;
     public const float G = 9.8f;
-    public float FallTime = 5f;
+    public float FallTime = 3f;
 
     void Start()
     {
@@ -25,12 +25,13 @@ public class Chapter02_3 : MonoBehaviour
         while (Time.time - startTime <= falltime)
         {
             float elapsedTime = Mathf.Min(Time.time - startTime, falltime);
-            if(lastElapsedTime < falltime*0.5f && elapsedTime >= falltime * 0.5f)
+            if (lastElapsedTime < falltime * 0.5f && elapsedTime >= falltime * 0.5f)
             {
                 onHalf?.Invoke();
-                source.TrySetResult();
-                // 失败 source.TrySetException(new SystemException());
-                // 取消 source.TrySetCanceled(someToken);
+                source.TrySetResult(); // 手动完成
+                //source.TrySetException(new SystemException());  失败 
+                //source.TrySetCanceled(someToken);  取消 
+                //tryset之后的返回值为任务状态（结束与否），而不是任务结果
             }
 
             lastElapsedTime = elapsedTime;
@@ -42,8 +43,8 @@ public class Chapter02_3 : MonoBehaviour
 
     private async UniTaskVoid OnClickCallBack()
     {
-        float time = Time.time; 
-        UniTaskCompletionSource source = new UniTaskCompletionSource();
+        float time = Time.time;
+        UniTaskCompletionSource source = new UniTaskCompletionSource(); // 可复用
         FallTarget(targetGO.transform, FallTime, onTargetHalf, source).Forget();
         await source.Task;
         Debug.Log($"{targetGO.transform.localScale} {Time.time - time}");
